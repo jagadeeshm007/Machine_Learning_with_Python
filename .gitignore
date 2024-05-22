@@ -1,0 +1,15 @@
+
+## not to be used in production ##
+## Recommendation System using Collaborative Filtering and Content Based Filtering Techniques ##
+
+ml-latest/
+
+## zip files are not included in the repository
+
+*.jar
+*.zip
+moviedataset.zip
+*.pub 
+key
+
+e -i Head~15
